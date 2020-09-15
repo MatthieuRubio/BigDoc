@@ -1,0 +1,7 @@
+site_name: RenderFarm Manager Doc
+nav:
+    - Home: index.md
+    - Installation: installation.md
+    - Commande Line: command_Line.md
+    - Watch: watch.md
+theme: readthedocs
